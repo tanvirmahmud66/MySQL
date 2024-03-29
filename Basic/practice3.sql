@@ -17,9 +17,9 @@ VALUES
 (101, "Fahim", 90, "A", "Rajshahi"),
 (102, "Tanvir", 80, "B", "Rajshahi"),
 (103, "Mahmud", 75, "C", "Dhaka"),
-(104, "Jerin", 60, "D", "Rajbari"),
-(105, "Anchol", 50, "E", "Munshigang"),
-(106, "Ayesha", 95, "A", "Dhaka");
+(104, "Rahim", 60, "D", "Rajbari"),
+(105, "Karim", 50, "E", "Munshigang"),
+(106, "Abdullah", 95, "A", "Dhaka");
 
 
 SELECT * FROM students;
@@ -79,7 +79,7 @@ update students set grade='A' where marks >= 80;
 update students set grade= 'O' where marks >= 90;
 update students set marks = marks+1;
 
-delete from students where name = 'Anchol';
+delete from students where name = 'Rahim';
 delete from students where marks < 80;
 delete from students where rollno = 106;
 

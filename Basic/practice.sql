@@ -15,13 +15,13 @@ INSERT INTO students VALUES(1, 'FAHIM', 26);
 INSERT INTO students VALUES(2, 'TANVIR', 20);
 INSERT INTO students VALUES(3, 'MAHMUD', 30);
 
-INSERT INTO students (id, name, age) values (4, 'JERIN', 20);
+INSERT INTO students (id, name, age) values (4, 'RAHIM', 20);
 INSERT INTO students VALUES (8, 'MAHMUDA', 50);
 
 INSERT INTO students (id, name, age)
 VALUES
-(5, 'TASNIM', 22),
-(6, 'JESI', 23),
+(5, 'KARIM', 22),
+(6, 'RAHMAN', 23),
 (7, 'PAGI', 24);
 
 

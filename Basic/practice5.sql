@@ -30,9 +30,9 @@ values
 (1,"Tanvir", 101),
 (2, "Mahmud", 102),
 (3, "Fahim", 103),
-(4, "Jerin", 101),
-(5, "Tasnim", 104),
-(6, "Ayesha", 102);
+(4, "Rahim", 101),
+(5, "Karim", 104),
+(6, "Abdullah", 102);
 
 select * from teachers;
 
